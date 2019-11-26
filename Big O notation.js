@@ -1,4 +1,4 @@
-
+ 
 
                             // Constant runtime - As input size increases the runtime does not increase
 function log(array){        // Big O Notation: "O (1)"

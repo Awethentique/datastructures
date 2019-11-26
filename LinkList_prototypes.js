@@ -1,3 +1,4 @@
+
 function LinkedList() {
   this.head = null; // Initially set to null
   this.tail = null; // Initially set to null
